@@ -1,0 +1,5 @@
+Package ID: 1, Cost: $26.00
+Package ID: 2, Cost: $25.00
+Package ID: 3, Cost: $19.00
+Package ID: 4, Cost: $21.50
+Package ID: 5, Cost: $48.00
